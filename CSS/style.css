@@ -1,0 +1,17 @@
+body{
+    background-color: blanchedalmond;
+}
+h1{
+    color: rgb(54, 140, 187);
+    font-family: sans-serif;
+}
+h2{
+    color: cadetblue;
+    font-family: sans-serif;  
+}
+p{
+    font-family: sans-serif;
+}
+img{
+    border: 10px solid ;
+}
